@@ -117,7 +117,7 @@
 
           <div class="col-lg-5 col-md-6">
             <div class="about-img" data-aos="fade-right" data-aos-delay="100">
-              <img src="why-us.jpg" alt="">
+              <img src="assets/img/shaq.jpg" alt="">
             </div>
           </div>
 
